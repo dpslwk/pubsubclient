@@ -1,3 +1,8 @@
+1.9
+    * Updating to allow use of other Client's besides EthernetClient
+	* API change: now takes Client connection in constructor's 
+	* Updated example to show new Constructor 
+	* Added WiFLy example 
 1.8
     * KeepAlive interval is configurable in PubSubClient.h
     * Maximum packet size is configurable in PubSubClient.h
